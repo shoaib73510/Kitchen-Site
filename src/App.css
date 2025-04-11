@@ -1,0 +1,10 @@
+.bg{
+    background-image : linear-gradient(to right, rgba(209, 0, 30, 0),black,black) ,url("https://therectangular.com/wp-content/uploads/2020/10/outdoor-kitchen-cover-elegant-retractable-outdoor-kitchen-cover-in-terrebonne-of-outdoor-kitchen-cover.jpg" ) ;
+    height: 500px;
+    
+    font-size: 300px;
+    background-repeat: no-repeat;
+  background-size: 100% 100%;
+    
+    
+}
